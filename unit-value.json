@@ -35,7 +35,7 @@
   {"name": "ASTRAL KNIGHT", "val": "30-35", "dm": "✖️", "tr": "STABLE", "trCls": "st", "nameCls": "r", "cat": "n"},
   {"name": "MASQUERADE", "val": "5-10", "dm": "📊", "tr": "STABLE", "trCls": "st", "nameCls": "r", "cat": "n"},
   {"name": "GHOST CAPTAIN", "val": "950-1k", "dm": "🔥", "tr": "DROP", "trCls": "r", "nameCls": "r", "cat": "n"},
-  {"name": "DUCKY", "val": "100-120", "dm": "🔥", "tr": "STABLE", "trCls": "r", "nameCls": "o", "cat": "n"},
+  {"name": "DUCKY", "val": "100-120", "dm": "🔥", "tr": "STABLE", "trCls": "st", "nameCls": "o", "cat": "n"},
   {"name": "SKY LIGHTER", "val": "300-500", "dm": "❓", "tr": "STABLE", "trCls": "st", "nameCls": "pu", "cat": "n"},
   {"name": "C_FALLEN KNT", "val": "20-30", "dm": "✖️", "tr": "STABLE", "trCls": "st", "nameCls": "m", "cat": "s"},
   {"name": "S_FALLEN KNT", "val": "200-250", "dm": "🔥", "tr": "STABLE", "trCls": "st", "nameCls": "p", "cat": "s"},
