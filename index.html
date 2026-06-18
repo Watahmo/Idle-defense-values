@@ -78,7 +78,7 @@
 
     async function initDatabase() {
       try {
-        const res = await fetch('data.json');
+        const res = await fetch('unit-value.json');
         items = await res.json();
         displayItems(items);
       } catch (err) {
