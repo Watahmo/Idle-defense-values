@@ -9,7 +9,7 @@
   },
   {
     "name": "EXECUTIONER AXE",
-    "val": "450+",
+    "val": "600-900",
     "dm": "🔥",
     "tr": "FLUCT",
     "trCls": "fl",
@@ -41,7 +41,7 @@
   },
   {
     "name": "SEA SHELLS",
-    "val": "0.1-0.2",
+    "val": "0.1",
     "dm": "🔥",
     "tr": "STABLE",
     "trCls": "st",
