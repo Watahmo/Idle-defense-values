@@ -18,6 +18,7 @@
   {"name": "MECH", "val": "30-40", "dm": "📊", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
   {"name": "EXPERIMENT 001", "val": "80-100", "dm": "✖️", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
   {"name": "HADES", "val": "20-25", "dm": "✖️", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
+  {"name": "SIEGER", "val": "20-40", "dm": "❓️", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
   {"name": "SURFER", "val": "20-30", "dm": "📊", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
   {"name": "ABSTRACT", "val": "10-20", "dm": "📊", "tr": "STABLE", "trCls": "st", "nameCls": "b", "cat": "n"},
   {"name": "ASTRAL DEMON", "val": "10-20", "dm": "❓", "tr": "STABLE", "trCls": "st", "nameCls": "b", "cat": "n"},
