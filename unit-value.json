@@ -42,7 +42,7 @@
   {"name": "WINTER WARDEN", "val": "50-100", "dm": "❓️", "tr": "STABLE", "trCls": "st", "nameCls": "o", "cat": "n"},
   {"name": "SELENE", "val": "40-80", "dm": "📊", "tr": "STABLE", "trCls": "st", "nameCls": "o", "cat": "n"},
   {"name": "WEEPING ANGEL", "val": "110-130", "dm": "❓️", "tr": "STABLE", "trCls": "st", "nameCls": "o", "cat": "n"},
-  {"name": "SKY LIGHTER", "val": "300-500", "dm": "❓", "tr": "STABLE", "trCls": "st", "nameCls": "pu", "cat": "n"},
+  {"name": "SKY LIGHTER", "val": "200-300", "dm": "❓", "tr": "FLUCT", "trCls": "fl", "nameCls": "pu", "cat": "n"},
   {"name": "CANNON", "val": "800-900", "dm": "❓", "tr": "UNKNOWN", "trCls": "r", "nameCls": "pu", "cat": "n"},
   {"name": "C_FALLEN KNIGHTT", "val": "20-30", "dm": "✖️", "tr": "STABLE", "trCls": "st", "nameCls": "m", "cat": "s"},
   {"name": "S_FALLEN KNIGHT", "val": "200-250", "dm": "🔥", "tr": "STABLE", "trCls": "st", "nameCls": "p", "cat": "s"},
