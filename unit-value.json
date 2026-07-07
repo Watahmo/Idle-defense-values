@@ -55,11 +55,12 @@
   {"name": "S_ZEUS", "val": "3.6k-3.8k", "dm": "❓️", "tr": "RISING", "trCls": "ri", "nameCls": "p", "cat": "sp"},
   {"name": "S_HADES", "val": "2.3k-2.7k", "dm": "❓️", "tr": "RISING", "trCls": "ri", "nameCls": "p", "cat": "sp"},
   {"name": "S_GARDEN GD", "val": "N/A", "dm": "❓️", "tr": "RISING", "trCls": "ri", "nameCls": "p", "cat": "sp"},
-  {"name": "S_SKY LIGHTER", "val": "N/A", "dm": "EXIS > 9", "tr": "STABLE", "trCls": "st", "nameCls": "pu", "cat": "w"},
+  {"name": "S_SKY LIGHTER", "val": "N/A", "dm": "EXIS > 9?", "tr": "STABLE", "trCls": "st", "nameCls": "pu", "cat": "w"},
   {"name": "S_CANNON", "val": "N/A", "dm": "EXIS > 6", "tr": "STABLE", "trCls": "st", "nameCls": "pu", "cat": "w"},
   {"name": "S_SELENE", "val": "N/A", "dm": "EXIS > 1", "tr": "STABLE", "trCls": "st", "nameCls": "pu", "cat": "w"},
   {"name": "S_EXP 001", "val": "N/A", "dm": "EXIS > 1", "tr": "STABLE", "trCls": "st", "nameCls": "pu", "cat": "w"},
   {"name": "S_INCINERATOR", "val": "N/A", "dm": "EXIS > 1", "tr": "STABLE", "trCls": "st", "nameCls": "pu", "cat": "w"},
+  {"name": "S_MR.CLAUSE", "val": "N/A", "dm": "EXIS > 1", "tr": "STABLE", "trCls": "st", "nameCls": "pu", "cat": "w"},
   {"name": "S_GINGERBREAD", "val": "N/A", "dm": "EXIS > 0", "tr": "STABLE", "trCls": "st", "nameCls": "pu", "cat": "w"},
   {"name": "S_WINTER WDN", "val": "N/A", "dm": "EXIS > 0", "tr": "STABLE", "trCls": "st", "nameCls": "pu", "cat": "w"},
   {"name": "S_STAR HNTR", "val": "N/A", "dm": "EXIS > 0", "tr": "STABLE", "trCls": "st", "nameCls": "pu", "cat": "w"}
