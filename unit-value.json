@@ -1,6 +1,6 @@
 [
-  {"name": "TRIPLE T", "val": "1,500-1,800", "dm": "📊", "tr": "FLUCTUATING", "trCls": "fl", "nameCls": "g", "cat": "n"},
-  {"name": "FROG MECH", "val": "800", "dm": "🔥", "tr": "STABLE", "trCls": "st", "nameCls": "g", "cat": "n"},
+  {"name": "TRIPLE T", "val": "1,000-1,800", "dm": "📊", "tr": "FLUCTUATING", "trCls": "fl", "nameCls": "g", "cat": "n"},
+  {"name": "FROG MECH", "val": "500", "dm": "🔥", "tr": "STABLE", "trCls": "st", "nameCls": "g", "cat": "n"},
   {"name": "FOREST WARDEN", "val": "25,000", "dm": "❓", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
   {"name": "FOREST OVERSEER", "val": "23,000", "dm": "❓", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
   {"name": "SUGAR SLAMMER", "val": "7,500", "dm": "✖️", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
