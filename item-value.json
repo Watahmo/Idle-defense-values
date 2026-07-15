@@ -13,7 +13,15 @@
     "dm": "🔥",
     "tr": "FLUCT",
     "trCls": "fl",
-    "nameCls": "r"
+    "nameCls": "b"
+  },
+  {
+    "name": "UNSTABLE FRAG",
+    "val": "300",
+    "dm": "🔥",
+    "tr": "FLUCT",
+    "trCls": "fl",
+    "nameCls": "b"
   },
   {
     "name": "TREE ROOT",
