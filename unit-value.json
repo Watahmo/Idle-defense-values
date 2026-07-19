@@ -4,7 +4,7 @@
   {"name": "FOREST WARDEN", "val": "25,000", "dm": "❓", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
   {"name": "FOREST OVERSEER", "val": "23,000", "dm": "❓", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
   {"name": "SUGAR SLAMMER", "val": "7,500", "dm": "✖️", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
-  {"name": "FALLEN JESTER", "val": "750", "dm": "🔥", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
+  {"name": "FALLEN JESTER", "val": "900", "dm": "🔥", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
   {"name": "EGG BROS", "val": "60", "dm": "📊", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
   {"name": "MR. CLAUSE", "val": "30", "dm": "✖️", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
   {"name": "GARDEN GUARD", "val": "50", "dm": "✖️", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
