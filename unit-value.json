@@ -27,7 +27,7 @@
   {"name": "SHOWMAN", "val": "20", "dm": "📊", "tr": "STABLE", "trCls": "st", "nameCls": "b", "cat": "n"},
   {"name": "EXECUTIONER", "val": "250", "dm": "📊", "tr": "FLUCTUATING", "trCls": "fl", "nameCls": "b", "cat": "n"},
   {"name": "DEFENSE FORCE", "val": "150", "dm": "📊", "tr": "STABLE", "trCls": "st", "nameCls": "b", "cat": "n"},
-  {"name": "QUEEN", "val": "200", "dm": "🔥", "tr": "FLUCTUATING", "trCls": "fl", "nameCls": "b", "cat": "n"},
+  {"name": "QUEEN", "val": "115", "dm": "🔥", "tr": "FLUCTUATING", "trCls": "fl", "nameCls": "b", "cat": "n"},
   {"name": "DRAKO", "val": "85", "dm": "🔥", "tr": "STABLE", "trCls": "st", "nameCls": "r", "cat": "n"},
   {"name": "MRS.CLAUSE", "val": "260", "dm": "✖️", "tr": "STABLE", "trCls": "st", "nameCls": "r", "cat": "n"},
   {"name": "FROST QUEEN", "val": "2,300", "dm": "✖️", "tr": "STABLE", "trCls": "st", "nameCls": "r", "cat": "n"},
