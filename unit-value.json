@@ -2,7 +2,7 @@
   {"name": "TRIPLE T", "val": "1,000", "dm": "📊", "tr": "FLUCTUATING", "trCls": "fl", "nameCls": "g", "cat": "n"},
   {"name": "FROG MECH", "val": "450", "dm": "🔥", "tr": "STABLE", "trCls": "st", "nameCls": "g", "cat": "n"},
   {"name": "FOREST WARDEN", "val": "25,000", "dm": "❓", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
-  {"name": "FOREST OVERSEER", "val": "23,000", "dm": "❓", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
+  {"name": "FOREST OVERSEER", "val": "50?", "dm": "❓", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
   {"name": "SUGAR SLAMMER", "val": "5,500", "dm": "✖️", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
   {"name": "FALLEN JESTER", "val": "1,200", "dm": "🔥", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
   {"name": "EGG BROS", "val": "70", "dm": "📊", "tr": "STABLE", "trCls": "st", "nameCls": "gr", "cat": "n"},
